@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
+<p align="center">
   <a href="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 <a href="https://t.me/tsucintosh"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Tsunami43&label=Profile%20Visits&style=for-the-badge" />
