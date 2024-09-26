@@ -1,6 +1,7 @@
 <p align="center">
-  [<img src="https://github.com/Tsunami43/Tsunami43/tree/main/assets/ops.gif" alt="Idi nahyi...">](https://github.com/Tsunami43/Tsunami43/blob/main/assets/ops.gif)
+  <img src="https://github.com/Tsunami43/Tsunami43/raw/main/assets/ops.gif" alt="Idi nahyi...">
 </p>
+
 
 <p align="center">
   <a href="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
