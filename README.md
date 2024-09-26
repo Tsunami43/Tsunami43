@@ -11,4 +11,4 @@
 </p>
 
 
-![](https://github-readme-stats.vercel.app/api?username=Tsunami43&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsunami43&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages)
+![](https://github-readme-stats.vercel.app/api?username=Tsunami43&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&show_icons=true)![](https://github-readme-stats.vercel.app/api?username=Tsunami43&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages)
