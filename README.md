@@ -1,7 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis
+My GitHub Stats
 =============================================================================================================================
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/Tsunami43"><img src="https://github-readme-stats.vercel.app/api?username=Tsunami43&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ef4444&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Tsunami43's GitHub stats" /></a>
 
 <p align="left">
