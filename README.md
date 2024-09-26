@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Tsunami43/Tsunami43/tree/main/assets/ops.gif" alt="Idi nahyi...">
+  [<img src="https://github.com/Tsunami43/Tsunami43/tree/main/assets/ops.gif" alt="Idi nahyi...">](https://github.com/Tsunami43/Tsunami43/blob/main/assets/ops.gif)
 </p>
 
 <p align="center">
