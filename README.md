@@ -5,4 +5,4 @@
 </p>
 
 ### Quick stats about me
-| ![](https://github-readme-stats.vercel.app/api?username=KurimuzonAkuma&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsunami43&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=Tsunami43&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsunami43&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
