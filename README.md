@@ -1,4 +1,6 @@
-GitHub Stats[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tsucintosh)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tsucintosh)
+
+GitHub Stats
 =============================================================================================================================
 <a href="http://www.github.com/Tsunami43"><img src="https://github-readme-stats.vercel.app/api?username=Tsunami43&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ef4444&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Tsunami43's GitHub stats" /></a>
 
